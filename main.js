@@ -46,7 +46,7 @@ process.on('typeError', error => {
 });
 
 
-client.login("MTI4NjA4NDIyNjIxNDc4OTE0MQ.GyEvIc.1D9Dg_T5F15l6MfN7vOpbfoXLIjfb2AJqZL5-w");
+client.login("");
 
 
 
